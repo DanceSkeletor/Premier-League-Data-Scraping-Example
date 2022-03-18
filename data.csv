@@ -1,0 +1,101 @@
+index,Player Name,Position,Team,Touches in Box,Starts,Minutes Played,Fouled
+0,Salah ,Forward,Liverpool,248,33,2876,18
+1,Sterling ,Forward,M. City,239,30,2651,40
+2,Zaha,Forward,Crystal Palace,192,37,3280,120
+3,Roberto Firmino ,Forward,Liverpool,184,34,2988,16
+4,Raúl Jiménez ,Forward,Wolves,171,37,3236,35
+5,Sadio Mane,Forward,Liverpool,164,31,2747,51
+6,Deulofeu ,Forward,Watford,159,25,2098,22
+7,Pukki ,Forward,Norwich City,158,33,2886,15
+8,Richarlison ,Forward,Everton,155,36,3070,72
+9,Neal Maupay ,Forward,Brighton,148,30,2766,46
+10,Tammy Abraham ,Forward,Chelsea,135,25,2215,24
+11,David Silva ,Midfielder,M. City,135,22,1826,20
+12,Sergio Agüero,Forward,M. City,135,18,1452,9
+13,Gabriel Jesus ,Forward,M. City,132,21,2030,29
+14,Vardy ,Forward,Leicester,131,34,3033,12
+15,Son Heung-min,Forward,Tottenham,130,28,2476,27
+16,Diogo Jota ,Forward,Wolves,127,27,2284,61
+17,Ings ,Forward,Southampton,122,32,2804,25
+18,Bernardo Silva ,Midfielder,M. City,121,23,2030,20
+19,De Bruyne ,Midfielder,M. City,120,32,2791,28
+20,Rashford ,Forward,M. United,120,31,2643,45
+21,Aubameyang ,Forward,Arsenal,119,35,3136,20
+22,Anthony Martial ,Forward,M. United,118,31,2624,41
+23,Mahrez ,Forward,M. City,117,21,1944,29
+24,Haller,Forward,West Ham,117,24,2266,38
+25,Harvey Barnes,Midfielder,Leicester,116,24,2083,29
+26,Grealish ,Midfielder,Aston Villa,115,36,3233,167
+27,Callum Wilson ,Forward,Bournemouth,114,32,2908,40
+28,Ayoze Pérez ,Forward,Leicester,111,26,2004,30
+29,Calvert-Lewin ,Forward,Everton,108,30,2626,44
+30,Mason Mount ,Midfielder,Chelsea,103,32,2867,38
+31,Jordan Ayew,Forward,Crystal Palace,102,37,3148,105
+32,Adama Traoré,Forward,Wolves,97,27,2605,77
+33,Willian ,Forward,Chelsea,95,29,2600,45
+34,Kane ,Forward,Tottenham,94,29,2587,44
+35,Lacazette ,Forward,Arsenal,93,22,1874,45
+36,Doucouré ,Midfielder,Watford,91,36,3156,15
+37,Christian Pulisic ,Midfielder,Chelsea,90,19,1722,30
+38,Wesley ,Forward,Aston Villa,86,21,1782,14
+39,Wood ,Forward,Burnley,85,29,2437,28
+40,Nathan Redmond ,Midfielder,Southampton,83,32,2762,31
+41,Joelinton ,Forward,Newcastle,82,32,2683,40
+42,Daniel James ,Midfielder,M. United,81,26,2287,55
+43,Nicolas Pépé,Forward,Arsenal,81,22,2010,37
+44,Oliver McBurnie ,Forward,Sheffield Utd,80,24,2113,28
+45,Ismaila Sarr ,Forward,Watford,79,22,2028,47
+46,Matt Doherty ,Defender,Wolves,79,32,2839,18
+47,Azpilicueta ,Defender,Chelsea,78,36,3229,15
+48,Dele Alli ,Midfielder,Tottenham,78,21,1847,33
+49,Trossard ,Midfielder,Brighton,76,22,2011,11
+50,Todd Cantwell ,Midfielder,Norwich City,75,30,2489,67
+51,James Maddison ,Midfielder,Leicester,74,29,2624,88
+52,Troy Deeney ,Forward,Watford,73,26,2225,36
+53,Michail Antonio ,Midfielder,West Ham,72,19,1768,35
+54,Lys Mousset ,Forward,Sheffield Utd,71,11,1240,14
+55,Miguel Almirón,Midfielder,Newcastle,70,35,3021,59
+56,Saint-Maximin ,Forward,Newcastle,68,23,1863,48
+57,Andrew Robertson,Defender,Liverpool,66,34,3111,13
+58,Benteke ,Forward,Crystal Palace,66,13,1261,20
+59,McArthur ,Midfielder,Crystal Palace,65,37,3090,35
+60,Trézéguet,Midfielder,Aston Villa,64,20,1950,32
+61,Ricardo Pereira,Defender,Leicester,64,28,2520,37
+62,Walcott ,Forward,Everton,61,17,1287,17
+63,King ,Forward,Bournemouth,61,24,2011,27
+64,Stevens ,Defender,Sheffield Utd,60,38,3345,19
+65,Emi Buendía ,Midfielder,Norwich City,60,28,2464,54
+66,Lucas Moura ,Midfielder,Tottenham,60,25,2242,63
+67,El Ghazi ,Midfielder,Aston Villa,59,26,2051,17
+68,Felipe Anderson ,Midfielder,West Ham,59,20,1497,24
+69,Ryan Fraser ,Midfielder,Bournemouth,58,21,2067,36
+70,Shane Long,Forward,Southampton,58,15,1395,25
+71,Sofiane Boufal ,Midfielder,Southampton,57,8,764,20
+72,James Tarkowski ,Defender,Burnley,56,38,3420,32
+73,Dominic Solanke,Forward,Bournemouth,55,17,1651,23
+74,Ashley Barnes,Forward,Burnley,55,17,1352,40
+75,Jay Rodriguez,Forward,Burnley,55,20,2016,15
+76,Wijnaldum ,Midfielder,Liverpool,53,35,2935,32
+77,Moussa Djenepo ,Midfielder,Southampton,53,10,928,30
+78,Jonny Castro,Defender,Wolves,52,33,2887,28
+79,Kouyaté ,Midfielder,Crystal Palace,52,29,2528,28
+80,George Baldock ,Defender,Sheffield Utd,52,38,3420,44
+81,Andreas Pereira ,Midfielder,M. United,52,18,1484,16
+82,Kelechi Iheanacho,Forward,Leicester,51,12,960,13
+83,Snodgrass ,Midfielder,West Ham,51,17,1509,32
+84,David McGoldrick ,Forward,Sheffield Utd,51,22,1815,18
+85,Pereyra ,Midfielder,Watford,51,17,1648,33
+86,Callum Hudson-Odoi,Forward,Chelsea,50,7,863,13
+87,Onel Hernández ,Midfielder,Norwich City,50,14,1384,18
+88,Harry Maguire ,Defender,M. United,49,38,3420,22
+89,John McGinn ,Midfielder,Aston Villa,49,27,2312,66
+90,Trent Alexander-Arnold ,Defender,Liverpool,48,35,3175,9
+91,Lundstram ,Midfielder,Sheffield Utd,47,26,2458,12
+92,Groß ,Midfielder,Brighton,47,22,1796,13
+93,Yerry Mina ,Defender,Everton,47,25,2284,12
+94,Gylfi Sigurðsson,Midfielder,Everton,46,28,2560,23
+95,Jack O'Connell ,Defender,Sheffield Utd,46,32,2916,17
+96,Bernard Duarte,Forward,Everton,46,15,1280,10
+97,Harry Wilson ,Midfielder,Bournemouth,45,20,1646,41
+98,Moise Kean,Forward,Everton,44,6,852,11
+99,Digne,Defender,Everton,44,35,3030,29
